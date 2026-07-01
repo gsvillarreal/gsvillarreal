@@ -42,9 +42,8 @@ Computer Science Engineer with Honors from Universidad Politécnica Estatal del 
 
 ## 🎓 Education
 
-**B.Sc. in Computer Science**  
+B.Sc. in Computer Science (2026)
 Universidad Politécnica Estatal del Carchi (UPEC)
-
 ---
 
 ## 📫 Contact
