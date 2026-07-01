@@ -49,6 +49,6 @@ Universidad Politécnica Estatal del Carchi (UPEC)
 
 ## 📫 Contact
 
-- 📧 gabrielvillarreal2000@gmail.com
+- 📧 Email: gabrielvillarreal2000@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/gabriel-villarreal
-- 🐙 GitHub: github.com/gsvillarreal
+- 🌐 Portfolio: Coming Soon
