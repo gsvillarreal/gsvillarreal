@@ -1,15 +1,14 @@
 <p align="center">
   <img src="banner-github.png" alt="Banner" width="100%">
 </p>
-
-<h1 align="center">Hi 👋, I'm Gabriel Villarreal</h1>
-
+<h1 align="center">Gabriel Villarreal</h1>
+<h3 align="center">Artificial Intelligence Engineer</h3>
 <h3 align="center">
 AI Engineer • Machine Learning • Deep Learning • NLP • Python Developer
 </h3>
 
 <p align="center">
-Computer Science Engineer with Honors from Universidad Politécnica Estatal del Carchi (UPEC). Passionate about Artificial Intelligence, Machine Learning, Natural Language Processing and Backend Development with Python.
+Computer Science Engineer with Honors from Universidad Politécnica Estatal del Carchi (UPEC). Computer Science Engineer with Honors from UPEC, focused on Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing and Python development. Passionate about building intelligent solutions with real-world impact.
 </p>
 
 ---
@@ -42,12 +41,13 @@ Computer Science Engineer with Honors from Universidad Politécnica Estatal del 
 
 ## 🎓 Education
 
-B.Sc. in Computer Science (2026)
+🎓 B.Sc. in Computer Science (2026)
 Universidad Politécnica Estatal del Carchi (UPEC)
+Graduated with Honors
 ---
 
 ## 📫 Contact
 
 - 📧 Email: gabrielvillarreal2000@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/gabriel-villarreal
-- 🌐 Portfolio: Coming Soon
+- 🌐 Portfolio: Under Development
