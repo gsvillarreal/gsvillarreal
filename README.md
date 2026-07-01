@@ -21,7 +21,7 @@ Computer Science Engineer with Honors from Universidad Politécnica Estatal del 
 - 🤖 Machine Learning & Deep Learning
 - 💬 Natural Language Processing (NLP)
 - 🐍 Python Developer
-- 🌍 Looking for opportunities in Spain
+- 🌍 Open to AI, Machine Learning and Software Engineering opportunities worldwide.
 - 📚 Currently expanding my knowledge in AI and Software Engineering
 
 ---
@@ -50,5 +50,5 @@ Universidad Politécnica Estatal del Carchi (UPEC)
 ## 📫 Contact
 
 - 📧 gabrielvillarreal2000@gmail.com
-- 💼 LinkedIn *(Coming Soon)*
+- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-villarreal
 - 🐙 GitHub: github.com/gsvillarreal
