@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-github.png" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Gabriel Villarreal</h1>
 
 <h3 align="center">
